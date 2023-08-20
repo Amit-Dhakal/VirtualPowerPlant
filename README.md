@@ -25,8 +25,7 @@ Tools & Libraries used:
 
 Project Setup :
 - pull the project from remote repository using 
-  git clone https://github.com/Amit-Dhakal/Test-Coding.git  command
-  
+  git clone https://github.com/Amit-Dhakal/VirtualPowerPlant.git  command
 - Run PowerSystemProjectApplication.Java class file
 - For test cases Run PowerSystemRepoTest.Java class
 
